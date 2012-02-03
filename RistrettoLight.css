@@ -145,6 +145,9 @@ at-rule.media {
 	}
 	
 /* LESS */
+/* Note: For writing LESS I added this sugar: https://github.com/cellfusion/LESS.sugar
+   So these specific Syntax Selectors are probably dependent on that.
+*/
 
 less > punctuation definition {
 	/*color: #3f68a3;*/
