@@ -4,6 +4,8 @@ This is a very basic, light-colored syntax theme for Espresso. It currently supp
 
 (The colors may actually be *too* light. I may need to increase the contrast... I'll have to see how my eyes feel after extended use.)
 
+[View Screenshot](http://cl.ly/Drqz)
+
 ### Installation
 
 To install the theme, just drop the .css file into this folder (if the folder doesn't exist, you'll need to create it):
