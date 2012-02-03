@@ -19,7 +19,7 @@ For enabling LESS syntax in Espresso, I installed this Sugar: [LESS.sugar](https
 
 So the syntax selectors in this theme are probably specific to that.
 
-## To-Do
+### To-Do
 
 * Add styles for Javascript syntax
 * Add styles for Django syntax
